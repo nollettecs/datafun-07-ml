@@ -29,6 +29,9 @@
     - Pyarrow
     - Matplotlib
     - Seaborn
+    - Scikit-learn
+    - Scipy
+    - Numpy
 
 # Push to GitHub
 - git add .
